@@ -91,7 +91,7 @@
             bindings = <
 &kp TAB       &kp EXCL   &kp AT     &kp HASH    &kp DLLR                &kp PRCNT         &kp CARET                &kp AMPS           &kp KP_MULTIPLY  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp DEL
 &kp LEFT_ALT  &kp N1     &kp N2     &kp N3      &kp N4                  &kp N5            &kp NUMBER_6             &kp NUMBER_7       &kp NUMBER_8     &kp NUMBER_9          &kp N0                 &kp RIGHT_ALT
-&kp LSHFT     &kp MINUS  &kp EQUAL  &kp SLASH   &kp LEFT_BRACKET        &kp LEFT_BRACE    &kp RIGHT_BRACE          &kp RIGHT_BRACKET  &kp BACKSLASH    &kp GRAVE             &kp SEMI               &mo 3
+&kp LSHFT     &kp MINUS  &kp EQUAL  &kp SLASH   &kp LEFT_BRACKET        &kp LEFT_BRACE    &kp RIGHT_BRACE          &kp RIGHT_BRACKET  &kp BACKSLASH    &kp GRAVE             &kp QUESTION           &mo 3
                                     &kp ESCAPE  &tp LEFT_COMMAND ENTER  &kp TAB           &layer_hold 1 BACKSPACE  &kp SPACE          &kp RIGHT_SHIFT
             >;
         };
